@@ -197,7 +197,7 @@ gcc target_tracking.c -o main -ldqn -lm -lblas -fsanitize=address
 
 ## License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
